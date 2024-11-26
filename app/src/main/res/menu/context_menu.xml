@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Mục Edit -->
+    <item
+        android:id="@+id/context_edit"
+        android:title="Edit"
+        android:icon="@drawable/baseline_edit_24" />
+
+    <!-- Mục Remove -->
+    <item
+        android:id="@+id/context_remove"
+        android:title="Remove"
+        android:icon="@drawable/baseline_delete_24" />
+
+</menu>
